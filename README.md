@@ -1,0 +1,2 @@
+# FlutterHive
+https://flutter.dev/
